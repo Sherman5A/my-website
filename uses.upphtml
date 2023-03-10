@@ -1,0 +1,74 @@
+
+<body>
+    <header>
+        <h1>Jake's Website</h1>
+        <nav>
+            <a href="index.html">home</a>
+            &nbsp
+            |
+            &nbsp
+            <b>$</b> <a href="uses.html">things i use</a>
+            &nbsp
+            |
+            &nbsp
+            <a href="projects.html">projects</a>
+            &nbsp
+            |
+            &nbsp
+            <a href="links.html">links</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Things I use</h2>        
+        <h3>Computers</h3>
+        <ul>
+            <li><b>Desktop</b>
+                <ul>
+                    <li><b>CPU:</b> Ryzen 5 3600</li>
+                    <li><b>Motherboard:</b> MSI B450M Tomahawk</li>
+                    <li><b>GPU:</b> RX5700XT</li>
+                    <li><b>Monitor:</b> LG 27GL850</li>
+                    <li><b>Operating Systems:</b> Windows 10 &amp 
+                        <a href="https://getfedora.org/">Fedora Linux</a></li>
+                </ul>
+            </li>
+            <li><b>Laptop</b> - Lenovo Yoga Slim 7 Carbon 14
+                <ul>
+                    <li><b>CPU:</b> Ryzen 5 5600U</li>
+                    <li><b>Operating Systems:</b> 
+                        <a href="https://archlinux.org/">Arch Linux</a>, 
+                        <a href="https://www.gentoo.org/">Gentoo</a>, and 
+                        <a href="https://kisslinux.org/">Kiss Linux</a>
+                    </li>
+                </ul>
+        </ul>
+        <h3>Software</h3>
+        <ul>
+            <li><a href="https://archlinux.org/">Arch Linux</a> is my main OS. I have found
+                it very stable and I adore the package manager.
+            </li>
+            <li>I like <a href="https://kisslinux.org/">Kiss Linux</a> and 
+                <a href="https://www.gentoo.org/">Gentoo</a>, but I find them impractical at 
+                times so I use them less.
+            </li>
+            <li>I have a Windows partition on my desktop for software and game compatability.</li>
+            <li>zsh</li>
+            <li>nvim</li>
+            <li>Qtile</li>
+            <li>Hikari</li>
+        </ul>
+
+    </section>
+
+    <hr>
+
+    <footer>
+        <h5>Created with</h5>
+        <ul>
+            <li><a href="https://mkws.sh">mkws</a></li>
+            <li><a href="">github pages</li>
+            <li><a href="https://t.mkws.sh/sakura/">sakura</li>
+        </ul>
+    </footer>
+</body>

@@ -1,0 +1,33 @@
+
+<body>
+    <header>
+        <h1>Jake's Website</h1>
+        <nav>
+            <a href="index.html">home</a>
+            &nbsp
+            |
+            &nbsp
+            <a href="uses.html">things i use</a>
+            &nbsp
+            |
+            &nbsp
+            <a href="projects.html">projects</a>
+            &nbsp
+            |
+            &nbsp
+            <b>$</b> <a href="links.html">links</a>
+        </nav>
+    </header>
+    <hr>
+    <footer>
+        <h5>Created with</h5>
+        <ul>
+            <li><a href="https://mkws.sh">mkws</a></li>
+            <li><a href="">github pages</li>
+            <li><a href="https://t.mkws.sh/sakura/">sakura</li>
+        </ul>
+    </footer>
+
+
+
+</body>

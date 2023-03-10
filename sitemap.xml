@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url>
+<loc>web.com/index.html</loc>
+<lastmod>2023-03-10T21:15:23Z</lastmod>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>web.com/links.html</loc>
+<lastmod>2023-03-10T21:15:23Z</lastmod>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>web.com/projects.html</loc>
+<lastmod>2023-03-10T21:15:23Z</lastmod>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>web.com/uses.html</loc>
+<lastmod>2023-03-10T21:15:23Z</lastmod>
+<priority>1.0</priority>
+</url>
+</urlset>
