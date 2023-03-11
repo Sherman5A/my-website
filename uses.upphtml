@@ -48,27 +48,37 @@
             <li><a href="https://archlinux.org/">Arch Linux</a> is my main OS. I have found
                 it very stable and I adore the package manager.
             </li>
-            <li>I like <a href="https://kisslinux.org/">Kiss Linux</a> and 
+            <li>I also like <a href="https://kisslinux.org/">Kiss Linux</a> and 
                 <a href="https://www.gentoo.org/">Gentoo</a>, but I find them impractical at 
                 times so I use them less.
             </li>
             <li>I have a Windows partition on my desktop for software and game compatability.</li>
-            <li>zsh</li>
-            <li>nvim</li>
-            <li>Qtile</li>
-            <li>Hikari</li>
+            <li><a href="https://www.zsh.org/">zsh</a> - I just like the better tab complete, 
+                no complex config or anything
+            </li>
+            <li><a href ="https://neovim.io/">nvim</a> - I like it for simple editing and writing notes
+                For more complex stuff I use Jetbrains software
+            </li>
+            <li><a href="https://github.com/qtile/">Qtile</a> - Python config file is very 
+                nice and allows for lots of customisation
+            </li>
+            <li><a href="https://hikari.acmelabs.space/">Hikari</a> - Simple wayland floating window 
+                manager, I like the workflow and grouping systems
+            </li>
         </ul>
-
     </section>
 
     <hr>
-
     <footer>
         <h5>Created with</h5>
         <ul>
             <li><a href="https://mkws.sh">mkws</a></li>
             <li><a href="">github pages</li>
-            <li><a href="https://t.mkws.sh/sakura/">sakura</li>
+            <li><a href="https://t.mkws.sh/sakura/">sakura</a></li>
         </ul>
+    <hr>
+    #!
+        echo Last updated: $(date "+%H:%M %F")
+    #!
     </footer>
 </body>
